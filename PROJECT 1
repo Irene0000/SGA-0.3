@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
+  <title>Irene and SGA</title>
+  <style>
+    body {
+      text-align: center;
+      background:  url("https://imgur.com/MKrRiJq.jpg");
+      background-size: cover;
+      margin: 0 auto;
+      background-position: center;
+      color: red;
+      font-family: 'Pangolin';}
+    img {
+      img size:cover;
+      border-radius: 100%;
+      border:15px solid black;}
+    p {
+      font-size: 25px;
+      color:black;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      margin: 0 auto;
+      font-size: 18px;
+    }
+    input[type="submit"] 
+    {color:cyan;
+      background: purple;
+    }
+  </style>
+</head>
+<body>
+ 
+  <img class="circle-image" src=https://i.imgur.com/m13UKixt.jpg"> 
+  <p>Hello there! I'm Irene, a writer, proud AIESECer and SGA graduate soon!</p> </br>
+  <p> ...and I love technology </p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
